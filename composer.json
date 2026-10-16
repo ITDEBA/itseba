@@ -1,0 +1,12 @@
+{
+    "name": "itdeba/itseba-scaffold",
+    "description": "ITSEBA Laravel scaffold (vendor excluded). Run setup.sh to create a Laravel project and copy scaffold files.",
+    "type": "project",
+    "require": {
+        "php": "^8.1",
+        "laravel/framework": "^10.0"
+    },
+    "require-dev": {
+        "laravel/breeze": "^1.16"
+    }
+}
